@@ -69,6 +69,4 @@ respect this structure while selectively incorporating auxiliary signals.
 ## Author
 
 Saisrijith Reddy Maramreddy  
-Statistics & Applied Machine Learning
-
 
